@@ -4,6 +4,7 @@ import com.example.demo.exception.BaseException;
 import com.example.demo.exception.UserException;
 import com.example.demo.model.MRegisterRequest;
 import org.springframework.stereotype.Service;
+import org.springframework.web.multipart.MultipartFile;
 
 import java.util.Objects;
 
@@ -19,4 +20,13 @@ public class TestBusiness {
         }
         return "received" + request;
     }
+
+    public String uploadProfilePicture(MultipartFile file){
+        if ( file == null){
+            // throw error
+        }
+
+        if ( file.getSize() >  )
+    }
+
 }
