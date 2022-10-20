@@ -1,0 +1,15 @@
+{
+	"java.project.referencedLibraries": [
+		"lib/**/*.jar",
+		"d:\\Java\\lib\\commons-csv-1.9.0.jar",
+		"d:\\Java\\lib\\commons-lang3-3.12.0.jar",
+		"d:\\Java\\lib\\javax.xml-1.3.4.jar",
+		"d:\\Java\\lib\\json-simple-1.1.1.jar",
+		"d:\\Java\\lib\\junit-4.13.2.jar",
+		"d:\\Java\\lib\\junit-jupiter-api-5.8.1.jar",
+		"d:\\Java\\lib\\junit-jupiter-engine-5.8.1.jar",
+		"d:\\Java\\lib\\w3c-dom.jar",
+		"c:\\Users\\LENOVO LEGION\\Downloads\\json-simple-1.1.1.jar",
+		"d:\\Java\\lib\\gson-2.9.1.jar"
+	]
+}
