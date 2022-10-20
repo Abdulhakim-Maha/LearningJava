@@ -1,0 +1,4 @@
+ISBN,Title,Publisher,Authors
+9789352865123,Clean Architecture: A Craftsman's Guide to Software Structure,Pearson,Robert C. Martin
+9780078022159,Database System Concepts,McGraw Hill,Avi Silberschatz|Henry F. Korth|S. Sudarshan
+

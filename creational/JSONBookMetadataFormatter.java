@@ -53,9 +53,9 @@ class BOOKS {
 }
 class JSONBook {
     private String ISBN;
-    private String title;
-    private String publisher;
-    private List<String> authors = new ArrayList<>();
+    private String Title;
+    private String Publisher;
+    private List<String> Authors = new ArrayList<>();
 
     public String getISBN() {
         return ISBN;
@@ -66,26 +66,26 @@ class JSONBook {
     }
 
     public String getTitle() {
-        return title;
+        return Title;
     }
 
     public void setTitle(String title) {
-        this.title = title;
+        this.Title = title;
     }
 
     public String getPublisher() {
-        return publisher;
+        return Publisher;
     }
 
     public void setPublisher(String publisher) {
-        this.publisher = publisher;
+        this.Publisher = publisher;
     }
 
     public List<String> getAuthors() {
-        return authors;
+        return Authors;
     }
 
     public void setAuthors(List<String> authors) {
-        this.authors = authors;
+        this.Authors = authors;
     }
 }
