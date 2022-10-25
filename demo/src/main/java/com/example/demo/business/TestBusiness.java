@@ -26,7 +26,7 @@ public class TestBusiness {
             // throw error
         }
 
-        if ( file.getSize() >  )
+//        if ( file.getSize() >  )
     }
 
 }
