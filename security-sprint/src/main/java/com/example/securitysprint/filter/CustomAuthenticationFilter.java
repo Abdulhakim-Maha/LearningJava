@@ -28,7 +28,7 @@ public class CustomAuthenticationFilter extends AbstractAuthenticationProcessing
     private final AuthenticationManager authenticationManager;
 
     public CustomAuthenticationFilter(AuthenticationManager authenticationManager) {
-        super(new AntPathRequestMatcher("/login", "POST" ));
+        super(new AntPathRequestMatcher("/signin", "POST" ));
         this.authenticationManager = authenticationManager;
     }
 
