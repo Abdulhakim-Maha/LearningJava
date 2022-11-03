@@ -69,4 +69,6 @@ public class CustomAuthenticationFilter extends AbstractAuthenticationProcessing
 
         new ObjectMapper().writeValue(response.getOutputStream(), token);
     }
+
+
 }

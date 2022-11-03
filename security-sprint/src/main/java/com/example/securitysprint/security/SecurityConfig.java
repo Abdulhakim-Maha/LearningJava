@@ -1,6 +1,7 @@
 package com.example.securitysprint.security;
 
 import com.example.securitysprint.filter.CustomAuthenticationFilter;
+import com.example.securitysprint.filter.CustomAuthorizationFilter;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
@@ -34,14 +35,17 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter
     @Override
     protected void configure(HttpSecurity http) throws Exception {
         CustomAuthenticationFilter customFilter = new CustomAuthenticationFilter(authenticationManagerBean());
-
         http
                 .csrf().disable()
-                .addFilterAt(customFilter, UsernamePasswordAuthenticationFilter.class)
+                .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
+                .and()
                 .authorizeRequests()
                 .antMatchers(HttpMethod.POST, "/signup").permitAll()
                 .antMatchers(HttpMethod.POST, "/signin").permitAll()
                 .antMatchers(HttpMethod.GET,"/protected").authenticated();
+
+       http.addFilterAt(customFilter, UsernamePasswordAuthenticationFilter.class);
+       http.addFilterBefore(new CustomAuthorizationFilter(), UsernamePasswordAuthenticationFilter.class);
 
     }
 
