@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class LogInPhp {
+public class LogInPhp extends Creator{
+    @Override
+    Log createLog() {
+      return  new Php();
+    }
 }

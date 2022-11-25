@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Python {
+public class Python implements Log{
+    @Override
+    public void console() {
+        System.out.println("print('hello world')");
+    }
 }

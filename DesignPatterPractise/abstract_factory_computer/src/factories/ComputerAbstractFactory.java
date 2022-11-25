@@ -1,2 +1,7 @@
-package factories;public class ComputerAbstractFactory {
+package factories;
+
+import computer.Computer;
+
+public interface ComputerAbstractFactory {
+    Computer createComputer();
 }

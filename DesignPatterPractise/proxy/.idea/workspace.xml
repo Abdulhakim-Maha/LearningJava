@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c836a713-b716-4ff5-84cf-0f617498647b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Decorator/Decorator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/downloader/YouTubeDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proxy/YouTubeCacheProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/some_cool_media_library/ThirdPartyYouTubeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/some_cool_media_library/ThirdPartyYouTubeLib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/some_cool_media_library/Video.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Decorator/Decorator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Decorator/src/Mozzarella.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Decorator/src/Pizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Decorator/src/PlainPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Decorator/src/TomatoSauce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Decorator/src/ToppingDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/app/AllInOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/app/AllInOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/app/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/app/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/buttons/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/buttons/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/buttons/MacOSButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/buttons/MacOSButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/buttons/WindowsButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/buttons/WindowsButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/checkboxes/Checkbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/checkboxes/Checkbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/checkboxes/MacOSCheckbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/checkboxes/MacOSCheckbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/checkboxes/WindowsCheckbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/checkboxes/WindowsCheckbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/factories/GUIFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/factories/GUIFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/factories/MacOSFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/factories/MacOSFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory/src/factories/WindowsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory/src/factories/WindowsFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory_computer/src/app/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory_computer/src/app/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory_computer/src/computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory_computer/src/computer/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory_computer/src/computer/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory_computer/src/computer/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory_computer/src/computer/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory_computer/src/computer/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory_computer/src/factories/ComputerAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory_computer/src/factories/ComputerAbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory_computer/src/factories/PCFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory_computer/src/factories/PCFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../abstract_factory_computer/src/factories/ServerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../abstract_factory_computer/src/factories/ServerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/out/production/builder/director/Director.class" beforeDir="false" afterPath="$PROJECT_DIR$/../builder/out/production/builder/director/Director.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/src/director/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/../builder/src/director/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder_computer/src/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../builder_computer/src/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder_text_converting/src/builders/ASCIIConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../builder_text_converting/src/builders/ASCIIConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder_text_converting/src/builders/TextConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../builder_text_converting/src/builders/TextConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder_text_converting/src/product/ASCIIText.java" beforeDir="false" afterPath="$PROJECT_DIR$/../builder_text_converting/src/product/ASCIIText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder_user/src/users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../builder_user/src/users/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/facade/VideoConversionFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../facade/src/facade/VideoConversionFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/some_complex_media_library/AudioMixer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../facade/src/some_complex_media_library/AudioMixer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/some_complex_media_library/BitrateReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../facade/src/some_complex_media_library/BitrateReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/some_complex_media_library/CodecFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../facade/src/some_complex_media_library/CodecFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/some_complex_media_library/MPEG4CompressionCodec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../facade/src/some_complex_media_library/MPEG4CompressionCodec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/some_complex_media_library/OggCompressionCodec.java" beforeDir="false" afterPath="$PROJECT_DIR$/../facade/src/some_complex_media_library/OggCompressionCodec.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../facade/src/some_complex_media_library/VideoFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../facade/src/some_complex_media_library/VideoFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_method/src/Creator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_method/src/Creator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_method/src/LogInNodeJs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_method/src/LogInNodeJs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_method/src/LogInPhp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_method/src/LogInPhp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_method/src/LogInPython.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_method/src/LogInPython.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../factory_method/src/Python.java" beforeDir="false" afterPath="$PROJECT_DIR$/../factory_method/src/Python.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../singleton/src/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../singleton/src/Singleton.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I17vpcQSOe4ZN8ger8CRcilYKj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c836a713-b716-4ff5-84cf-0f617498647b" name="Changes" comment="" />
+      <created>1669337471720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669337471720</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

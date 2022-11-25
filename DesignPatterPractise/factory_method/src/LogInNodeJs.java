@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class LogInNodeJs {
+public class LogInNodeJs extends Creator{
+    @Override
+    Log createLog() {
+        return new NodeJs();
+    }
 }
