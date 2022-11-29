@@ -2,24 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c836a713-b716-4ff5-84cf-0f617498647b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../null_object/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../null_object/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../null_object/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../null_object/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../null_object/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../null_object/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../null_object/src/main/java/org/example/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../null_object/src/main/java/org/example/NodeImlp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../null_object/src/main/java/org/example/NullNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template_method/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template_method/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template_method/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template_method/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template_method/src/networks/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template_method/src/networks/Network.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template_method/src/networks/Twitter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../template_method/template_method.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/src/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../builder/src/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../builder/src/director/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/../builder/src/director/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/src/commands/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/../command/src/commands/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/src/commands/CommandHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../command/src/commands/CommandHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/src/commands/CopyCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../command/src/commands/CopyCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/src/commands/CutCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../command/src/commands/CutCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/src/commands/PasteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../command/src/commands/PasteCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../command/src/editor/Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../command/src/editor/Editor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/iterators/FacebookIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/iterators/FacebookIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/iterators/LinkedInIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/iterators/LinkedInIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/profile/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/profile/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/social_networks/Facebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/social_networks/Facebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/social_networks/LinkedIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/social_networks/LinkedIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/social_networks/SocialNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/social_networks/SocialNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../iterator/src/spammer/SocialSpammer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../iterator/src/spammer/SocialSpammer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../null_object/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../null_object/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../null_object/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../null_object/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../null_object/src/main/java/org/example/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/../null_object/src/main/java/org/example/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../null_object/src/main/java/org/example/NodeImlp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../null_object/src/main/java/org/example/NodeImlp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../null_object/src/main/java/org/example/NullNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../null_object/src/main/java/org/example/NullNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_method/src/networks/Facebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../template_method/src/networks/Facebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_method/src/networks/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/../template_method/src/networks/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../template_method/src/networks/Twitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../template_method/src/networks/Twitter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

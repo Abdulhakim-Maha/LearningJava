@@ -9,7 +9,7 @@ import components.TripComputer;
 
 public class Director {
 
-    public void constructSprotsCar(Builder builder) {
+    public void constructSportsCar(Builder builder) {
         builder.setCarType(CarType.SPORTS_CAR);
         builder.setSeats(2);
         builder.setEngine(new Engine(3.0, 0));
